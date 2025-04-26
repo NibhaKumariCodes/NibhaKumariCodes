@@ -35,40 +35,9 @@ I'm Nibha Kumari.
 - [LinkedIn](https://www.linkedin.com/in/nibhakumari-codes)
 - [Email](mailto:nibha5970@gmail.com)
 
----
-
-### 🔗 My Projects
-
-- [Project 1](https://github.com/NibhaKumariCodes/project1): A brief description of what this project does.
-- [Project 2](https://github.com/NibhaKumariCodes/project2): A brief description of what this project does.
-- [Project 3](https://github.com/NibhaKumariCodes/project3): A brief description of what this project does.
-
----
-
-### 📝 Blog Posts
-
-- [Understanding React Hooks](https://nibha.dev/blog/react-hooks)
-- [Building REST APIs with Node.js](https://nibha.dev/blog/nodejs-rest-api)
-- [Getting Started with MongoDB](https://nibha.dev/blog/mongodb-intro)
 
 ---
 
 ### 💬 Fun Fact
 
 I believe in continuous learning and strive to improve my skills every day. I enjoy collaborating with others and am always open to new challenges!
-
----
-
-### 📌 Pinned Repositories
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=NibhaKumariCodes&repo=project1)](https://github.com/NibhaKumariCodes/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=NibhaKumariCodes&repo=project2)](https://github.com/NibhaKumariCodes/project2)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=NibhaKumariCodes&repo=project3)](https://github.com/NibhaKumariCodes/project3)
-
----
-
-### 🛠️ Contributions
-
-- [Contributing to Open Source](https://nibha.dev/blog/contributing-to-open-source)
-- [How to Write Effective Git Commit Messages](https://nibha.dev/blog/git-commit-messages)
-- [Setting Up a CI/CD Pipeline with GitHub Actions](https://nibha.dev/blog/github-actions-cicd)
