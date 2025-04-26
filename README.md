@@ -1,45 +1,77 @@
-# hey there 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-### 👩‍💻 About Me
+###
 
-I'm Nibha Kumari.  
-- Passionate about building robust, scalable full-stack applications using Java and modern web technologies.  
-- Currently focusing on Java Full Stack development with Spring Boot, React, and PostgreSQL.  
-- Always eager to explore new tools, frameworks, and contribute to open-source communities.  
-- In my downtime, you'll find me reading tech blogs, tackling algorithmic challenges, or experimenting with new backend services.
+<div align="center">
+  <a href="https://www.linkedin.com/in/nibhakumari-codes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:nibha5970@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
+  </a>
+</div>
 
----
+###
 
-### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NibhaKumariCodes&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+###
 
----
+<h1 align="center">hey there 👋</h1>
 
-### 📈 GitHub Stats
+<h3 align="left">👩‍💻  About Me</h3>
 
-![Nibha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NibhaKumariCodes&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+<p align="left">
+I'm Nibha Kumari.<br><br>
+- 🔭 Passionate about building robust and scalable full-stack applications using Java and modern technologies.<br>
+- 📚 Currently diving deep into Java Full Stack development with Spring Boot, React, and PostgreSQL.<br>
+- ⚡ In my free time, I enjoy solving coding challenges, reading tech blogs, and exploring new frameworks and tools.
+</p>
 
----
+###
 
-### 📬 Connect with Me
+<h3 align="left">🛠 Languages and Tools</h3>
 
-- [LinkedIn](https://www.linkedin.com/in/nibhakumari-codes)  
-- [Email](mailto:nibha5970@gmail.com)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+</div>
 
----
+###
 
-### 💬 Fun Fact
+<h3 align="left">🔥 My Stats :</h3>
 
-I’m a big believer in writing clean, maintainable code and love architecting backend services that scale. I thrive in collaborative environments and always welcome a good tech challenge!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibhaKumariCodes&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NibhaKumariCodes&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
