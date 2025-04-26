@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="girl coding gif" />
+  <img height="150" src="GIF_URL_HERE" alt="Girl Developer GIF" />
 </div>
+
 
 
 ###
