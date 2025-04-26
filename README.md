@@ -28,7 +28,7 @@
 <p align="left">
 I'm Nibha Kumari.<br><br>
 - 🔭 Passionate about building robust and scalable full-stack applications using Java and modern technologies.<br>
-- 📚 Currently diving deep into Java Full Stack development with Spring Boot, React, and PostgreSQL.<br>
+- 📚 Currently diving deep into Java Full Stack development with Spring Boot, React, and MySQL.<br>
 - ⚡ In my free time, I enjoy solving coding challenges, reading tech blogs, and exploring new frameworks and tools.
 </p>
 
@@ -53,8 +53,6 @@ I'm Nibha Kumari.<br><br>
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
